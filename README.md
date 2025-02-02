@@ -40,7 +40,9 @@ This Financial Dashboard was created using Power BI to analyze profit trends, sa
 📌 Tools & Technologies Used
 
 🔹 Power BI – Data Visualization & Dashboarding
+
 🔹 Power query – Data Collection & Cleaning
+
 🔹 DAX (Data Analysis Expressions) – For calculated fields & custom measures
 
 
