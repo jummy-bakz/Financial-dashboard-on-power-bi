@@ -15,26 +15,31 @@ This Financial Dashboard was created using Power BI to analyze profit trends, sa
 ✅ Profit Trends Analysis
 
  • Visual breakdown of profits by Month & Quarter 📅
+ 
  • Weekday-wise profit distribution to identify high and low-performing days
 
 ✅ Sales & Transactions Overview
 
  • Total Gross Sales ($128M) vs. Net Sales ($119M)
+ 
  • Breakdown of Total Quantity Sold (1M units) and Total Transactions (700)
 
 ✅ Profitability by Business Segment
 
  • Small Business, Government, Enterprise, Midmarket & Channel Partners analyzed
+ 
  • Identified underperforming segments (Midmarket & Channel Partners with losses of $12M & $15M respectively)
 
 ✅ Geographical Performance
 
  • Germany contributed the most to gross profit ($3,264,536)
+ 
  • France was the lowest-performing country ($1,825,690)
 
 ✅ Discount Impact on Profitability
 
  • Analysis of discount bands (Low, Medium, High)
+ 
  • Higher discount bands leading to negative profit trends
 
 📌 Tools & Technologies Used
