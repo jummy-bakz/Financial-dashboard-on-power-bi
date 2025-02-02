@@ -49,7 +49,7 @@ This Financial Dashboard was created using Power BI to analyze profit trends, sa
 
 Feel free to fork this repository, report issues, or suggest improvements. If you’d like to collaborate, let’s connect!
 
-📧 Contact & Connect
+📧 Contact & Connect, you can as well check out the displayed video on linkedin.
 
 🔗 LinkedIn: https://www.linkedin.com/in/olanrewaju-dasola-697a70253/
 
